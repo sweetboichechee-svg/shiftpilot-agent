@@ -2,6 +2,10 @@
 
 ShiftPilot 把自然语言需求、确定性约束求解和独立结果校验组合成一条可审计的排班链路。它面向门店、客服中心、仓储物流等需要处理技能、可用时间、工时和班次衔接的团队。
 
+- 在线产品：https://sweetboichechee-svg.github.io/shiftpilot-agent/
+- 解析服务：https://shiftpirser-api-tngcdhxlys.cn-beijing.fcapp.run/health
+- 前端托管：GitHub Pages；模型网关：阿里云函数计算；模型：百炼 DeepSeek V4 Flash。
+
 ## 产品能力
 
 - 自然语言输入临时请假、增员、指定班次、班次上限和偏好。
